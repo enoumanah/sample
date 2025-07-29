@@ -21,6 +21,3 @@ This is a Java-based web application built with **Vaadin** that allows users to 
 - Java 17+
 - Vaadin 23+
 - Apache Commons Codec (for Double Metaphone)
-
-## 📦 Project Structure
-
